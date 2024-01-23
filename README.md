@@ -5,10 +5,6 @@
 - 🔭 What I'm Currently Focused On
     <p> * Studying algorithms and data structures to enhance problem-solving skills.Collaborating on university projects to gain practical experience and foster teamwork.</p>
 
-<p align="center">
-        <img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" style="max-width: 1000px; height: 400px; margin: 0.5px 0px; width: 800px;" alt="dharshan github">
-    </p>
-
 - 🌱 Currently learning: React Native, TensorFlow, Flutter
 - 👯 Seeking collaborations on innovative tech projects
 - 💬 Let's chat about cutting-edge tech and innovation
