@@ -2,12 +2,6 @@
 
 <h3><p>I'm a passionate software engineer/software engineering student dedicated to crafting elegant solutions and passionate about learning new technologies. Welcome to my GitHub profile!</p></h3>
 
-- 🔭 What I'm Currently Focused On
-    <p> * Studying algorithms and data structures to enhance problem-solving skills.Collaborating on university projects to gain practical experience and foster teamwork.</p>
-
-- 🌱 Currently learning: React Native, TensorFlow, Flutter
-- 👯 Seeking collaborations on innovative tech projects
-- 💬 Let's chat about cutting-edge tech and innovation
 - 📫 Reach me via [Email](dharshanravindran8@gmail.com)
 - 📄 Check out my professional experiences on [LinkedIn](https://www.linkedin.com/in/dharshan-4a2348278/)
 - ⚡ Fun fact: I love exploring the fun side of technology!,Let's connect and build something amazing together! 🚀.
@@ -24,9 +18,6 @@
   <a href="https://www.hackerrank.com/profile/dharshanravindr1" target="_blank" style="margin-left: 50px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="40" width="52" />
   </a>&nbsp;&nbsp;
-  <a href="################" target="_blank" rel="noreferrer" style="margin-left: 50px;">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" height="40"/>
-  </a>
 </div>
 
 
