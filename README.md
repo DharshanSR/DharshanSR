@@ -1,7 +1,39 @@
-# Hi there, I'm Dharshan! 👋
+# Hi there, I'm Dharshan! 👋<br><br>
 
-💫 About Me:<br>Welcome to my GitHub profile! I'm a dedicated Software Engineering undergraduate student at [Your Institution], IIT. My passion lies in exploring the boundless possibilities of software development and crafting solutions to real-world challenges.<br><br>🤝 Looking to Collaborate On:<br>I'm actively seeking collaborations on projects that push technological boundaries and drive positive change. Whether it's web development, mobile applications, machine learning, or any innovative endeavor, count me in for a collaborative journey!<br><br>📚 Currently Learning:<br>I'm deeply engaged in mastering various technologies, languages, and frameworks to enhance my skill set and deepen my understanding of software engineering principles. Continual learning fuels my excitement to tackle new challenges and grow with every project.<br><br>💬 Ask Me About:<br>Curious about software design patterns, algorithms, or the latest tech trends? Let's engage in stimulating discussions to exchange ideas and insights, fostering a vibrant community of learners and creators.<br><br>🎉 Fun Fact:<br>When I'm not immersed in code, you'll likely find me exploring new hiking trails or experimenting in the kitchen, endeavoring to recreate my favorite dishes from around the globe!
+💫 About Me:
+<ul>
+ <li> Software Engineering undergraduate student at IIT</li>
+ <li> Passionate about exploring software development possibilities</li>   
+ <li> Dedicated to crafting solutions for real-world challenges</li>
+</ul>
 
+
+🤝 Looking to Collaborate On:
+<ul>
+  <li> Interested in collaborative projects pushing technological boundaries</li>
+  <li> Open to ventures in web development, mobile applications, machine learning, etc.</li>
+</ul>
+
+
+📚 Currently Learning:
+<ul>
+  <li> Engaged in mastering various technologies, languages, and frameworks</li>
+  <li> Committed to deepening understanding of software engineering principles</li>
+</ul>
+
+
+💬 Ask Me About:
+<ul>
+  <li> Software design patterns</li>
+  <li> Algorithms</li>
+  <li> Latest tech trends</li>
+  <li> Engaging discussions to exchange ideas and insights</li>
+</ul>
+
+🎉 Fun Fact:
+<ul>
+    <li>The term "bug" in computer science originated in 1947 when a moth got trapped inside a relay of the Harvard Mark II computer, causing a malfunction. The engineers "debugged" the system by removing the moth, hence coining the term "debugging" for fixing errors in software.</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharshan-4a2348278/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Dharshan-Ravindran) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23990363) 
