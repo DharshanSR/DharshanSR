@@ -1,47 +1,30 @@
-# Hi there, I'm Dharshan! 👋<br><br>
+<h1>👋 Hi, I'm Dharshan!</h1>
 
-💫 About Me:
-<ul>
- <li> Software Engineering undergraduate student at IIT</li>
- <li> Passionate about exploring software development possibilities</li>   
- <li> Dedicated to crafting solutions for real-world challenges</li>
-</ul>
+## 💫 About Me
+- **Software Engineering Undergraduate Student at University of Westminster**
+- **Passionate about Exploring Software Development Possibilities**
+- **Dedicated to Crafting Solutions for Real-World Challenges**
 
+## 🤝 Looking to Collaborate On
+- **Collaborative Projects Pushing Technological Boundaries**
+- **Ventures in Web Development, Mobile Applications, Machine Learning, etc.**
 
-🤝 Looking to Collaborate On:
-<ul>
-  <li> Interested in collaborative projects pushing technological boundaries</li>
-  <li> Open to ventures in web development, mobile applications, machine learning, etc.</li>
-</ul>
+## 📚 Currently Learning
+- **Mastering Various Technologies, Languages, and Frameworks**
+- **Deepening Understanding of Software Engineering Principles**
 
-
-📚 Currently Learning:
-<ul>
-  <li> Engaged in mastering various technologies, languages, and frameworks</li>
-  <li> Committed to deepening understanding of software engineering principles</li>
-</ul>
-
-
-💬 Ask Me About:
-<ul>
-  <li> Software design patterns</li>
-  <li> Algorithms</li>
-  <li> Latest tech trends</li>
-  <li> Engaging discussions to exchange ideas and insights</li>
-</ul>
-
-🎉 Fun Fact:
-<ul>
-    <li>The term "bug" in computer science originated in 1947 when a moth got trapped inside a relay of the Harvard Mark II computer, causing a malfunction. The engineers "debugged" the system by removing the moth, hence coining the term "debugging" for fixing errors in software.</li>
-</ul>
+## 💬 Ask Me About
+- **Software Design Patterns**
+- **Algorithms**
+- **Latest Tech Trends**
+- **Engaging Discussions to Exchange Ideas and Insights**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharshan-4a2348278/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23990363) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dharshanravindran8)
 
-
 ## 💻 **Tech Stack:**
 
-## Frontend
+## Frontend Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -62,26 +45,17 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 
-## Backend
+## Backend Technologies
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
@@ -96,7 +70,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ## Frameworks and Libraries
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
@@ -133,8 +106,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
