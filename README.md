@@ -1,12 +1,12 @@
 <h1>👋 Hi, I'm Dharshan!</h1>
 
 ## 💫 About Me
-- **Software Engineering Undergraduate Student at University of Westminster**
+- **Software Engineering Undergraduate at University of Westminster**
 - **Passionate about Exploring Software Development Possibilities**
 - **Dedicated to Crafting Solutions for Real-World Challenges**
 
 ## 🤝 Looking to Collaborate On
-- **Collaborative Projects Pushing Technological Boundaries**
+- **Innovative Projects Pushing Technological Boundaries**
 - **Ventures in Web Development, Mobile Applications, Machine Learning, etc.**
 
 ## 📚 Currently Learning
