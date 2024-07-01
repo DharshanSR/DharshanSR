@@ -125,4 +125,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DharshanSR&icon=1&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DharshanSR&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
