@@ -108,14 +108,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanSR&langs_count=10&layout=compact&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&card_width=450" />
 </p>
 
-
 # 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 480px" />
 </p>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DharshanSR&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DharshanSR&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 800px; height: auto;" />
+</p>
 
 ---
 <p align="center">
