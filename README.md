@@ -110,10 +110,17 @@
 
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 45%" />
+</p>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DharshanSR&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DharshanSR&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=DharshanSR&label=Profile%20Views&icon=0&pretty=false" alt="Profile Views" style="width: 150px; height: auto;" />
+  </a>
+</p>
+
