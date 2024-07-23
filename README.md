@@ -101,8 +101,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharshanSR&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 50%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharshanSR&theme=vue-dark&hide_border=false&card_width=450" alt="GitHub Streak Stats" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DharshanSR&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 49%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharshanSR&theme=vue-dark&hide_border=false&card_width=450" alt="GitHub Streak Stats" style="width: 49%;" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanSR&langs_count=10&layout=compact&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&card_width=450" />
