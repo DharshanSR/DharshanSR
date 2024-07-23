@@ -111,7 +111,7 @@
 
 # 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 46%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 48%" />
 </p>
 
 # 🏆 GitHub Trophies
