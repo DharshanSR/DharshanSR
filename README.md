@@ -102,10 +102,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 480px" />
 </p>
 
-# 📈 GitHub Activity
-![Dharshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanSR&theme=vue-dark&hide_border=false) <br>
-🔍 Here’s a snapshot of my recent GitHub activity. This graph shows my contributions and interactions over time. Feel free to explore my repositories and projects!
-
 # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DharshanSR&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 800px; height: auto;" />
