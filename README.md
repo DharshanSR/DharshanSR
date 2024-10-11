@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanSR&langs_count=12&layout=compact&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&card_width=450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanSR&langs_count=12&layout=compact&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=450" />
 </p>
 
 # 🔝 Top Contributed Repo
