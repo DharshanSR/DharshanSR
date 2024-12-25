@@ -84,12 +84,13 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DharshanSR&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 49%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharshanSR&theme=vue-dark&hide_border=false&card_width=450" alt="GitHub Streak Stats" style="width: 49%;" />
 </p>
 
+# 🛠️ Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanSR&langs_count=20&layout=compact&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=450" />
 </p>
@@ -103,6 +104,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DharshanSR&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 800px; height: auto;" />
 </p>
+
+## 📊 GitHub Activity
+![Dharshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanSR&theme=github-compact)
 
 ---
 <p align="center">
