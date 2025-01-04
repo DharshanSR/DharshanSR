@@ -1,26 +1,38 @@
-<h1>👋 Hi, I'm Dharshan!</h1>
+<h1 align="center">👋 Hello, I'm Dharshan! 👨‍💻</h1>
 
-## 💫 About Me
-- **Software Engineering Undergraduate at University of Westminster**
-- **Passionate about Exploring Software Development Possibilities**
-- **Dedicated to Crafting Solutions for Real-World Challenges**
+## 🚀 About Me
+I’m Dharshan, a **Software Engineering Undergraduate** at the University of Westminster with a passion for solving complex challenges through technology. I’m always excited to explore new possibilities in **Software Development, AI, Cloud Computing**, and **DevOps**.
 
-## 🤝 Looking to Collaborate On
-- **Innovative Projects Pushing Technological Boundaries**
-- **Ventures in Web Development, Mobile Applications, Machine Learning, etc.**
+- 🛠️ **Tech Enthusiast**: Dedicated to exploring the latest in **Web Development, Mobile Apps, and Machine Learning**.  
+- 🌱 **Lifelong Learner**: Constantly expanding my skills in **Cloud Computing** and **DevOps** to stay at the forefront of industry trends.  
+- 🎯 **Problem Solver**: Focused on designing efficient, scalable solutions that have real-world applications.
 
-## 📚 Currently Learning
-- **Mastering Various Technologies, Languages, and Frameworks**
-- **Deepening Understanding of Software Engineering Principles**
+## 💡 What I'm Passionate About
+- 💻 Building modern **Web Applications** and **Mobile Solutions**.  
+- 🔄 Enhancing the **DevOps** lifecycle for better deployment and operations.  
+- 🤖 Exploring the world of **Machine Learning** and **Artificial Intelligence**.
+
+## 🔍 Currently Learning
+- 🚀 **Cloud Platforms**: AWS, Azure, GCP  
+- 🧰 **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform  
+- 📊 **Data Structures & Algorithms**: Sharpening my problem-solving skills with real-world applications.
+
+## 🤝 Let's Collaborate!
+I’m looking to connect with developers and innovators who share a passion for building cutting-edge solutions. If you’re working on something exciting, let’s collaborate!  
+- Web & Mobile App Development  
+- Machine Learning & AI  
+- DevOps, Cloud Infrastructure & Automation
 
 ## 💬 Ask Me About
-- **Software Design Patterns**
-- **Algorithms**
-- **Latest Tech Trends**
-- **Engaging Discussions to Exchange Ideas and Insights**
+- **DevOps & CI/CD Pipelines**  
+- **Scalable Web Architectures**  
+- **Machine Learning Algorithms**  
+- **Tech Career Development and Resources**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharshan-4a2348278/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23990363) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@https://medium.com/@dharshanravindran8](https://medium.com/@dharshanravindran8))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharshan-4a2348278/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23990363)
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@https://medium.com/@dharshanravindran8](https://medium.com/@dharshanravindran8))
 
 ## Frontend Technologies  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
