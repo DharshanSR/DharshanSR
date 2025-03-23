@@ -131,9 +131,6 @@ I’m looking to connect with developers and innovators who share a passion for 
   <img src="https://github-profile-trophy.vercel.app/?username=DharshanSR&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 800px; height: auto;" />
 </p>
 
-## 📊 GitHub Activity
-![Dharshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanSR&theme=github-compact)
-
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
