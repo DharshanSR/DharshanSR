@@ -117,7 +117,7 @@ I’m looking to connect with developers and innovators who share a passion for 
 
 # 🛠️ Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanSR&langs_count=20&layout=compact&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanSR&langs_count=25&layout=compact&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&card_width=450" />
 </p>
 
 # 🔝 Top Contributed Repo
