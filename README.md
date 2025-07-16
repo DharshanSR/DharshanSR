@@ -221,14 +221,14 @@ I’m looking to connect with developers and innovators who share a passion for 
 ### <p align="center">🎨 Frontend Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui,threejs,webpack,vite,vue,angular,svelte,bootstrap&perline=9" alt="Frontend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui,threejs,webpack,vite,vue,angular,svelte,bootstrap&perline=10" alt="Frontend Technologies"/>
   </a>
 </p>
 
 ### <p align="center">⚙️ Backend Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,postgres,redis,firebase,mongodb,mysql,nginx,graphql,apollo,django,flask&perline=9" alt="Backend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,postgres,redis,firebase,mongodb,mysql,nginx,graphql,apollo,django,flask&perline=10" alt="Backend Technologies"/>
   </a>
 </p>
 
@@ -249,7 +249,7 @@ I’m looking to connect with developers and innovators who share a passion for 
 ### <p align="center">🚀 DevOps & CI/CD</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,jenkins,terraform,ansible,prometheus,grafana,githubactions,circleci,travis&perline=12" alt="DevOps & CI/CD"/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,jenkins,terraform,ansible,prometheus,grafana,githubactions,circleci,travis&perline=10" alt="DevOps & CI/CD"/>
   </a>
 </p>
 
@@ -277,14 +277,14 @@ I’m looking to connect with developers and innovators who share a passion for 
 ### <p align="center">🧪 Testing & API Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,insomnia,jest,cypress,selenium,vitest,playwright&perline=7" alt="Testing & API Tools"/>
+    <img src="https://skillicons.dev/icons?i=postman,insomnia,jest,cypress,selenium,vitest,playwright&perline=10" alt="Testing & API Tools"/>
   </a>
 </p>
 
 ### <p align="center">🎨 Design & Prototyping</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,sketch,blender&perline=6" alt="Design & Prototyping"/>
+    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,sketch,blender&perline=10" alt="Design & Prototyping"/>
   </a>
 </p>
 
@@ -305,7 +305,7 @@ I’m looking to connect with developers and innovators who share a passion for 
 ### <p align="center">🌐 Web Technologies & Protocols</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,apollo,rest,websocket,socketio,nginx,apache&perline=7" alt="Web Technologies & Protocols"/>
+    <img src="https://skillicons.dev/icons?i=graphql,apollo,rest,websocket,socketio,nginx,apache&perline=10" alt="Web Technologies & Protocols"/>
   </a>
 </p>
 
@@ -319,7 +319,7 @@ I’m looking to connect with developers and innovators who share a passion for 
 ### <p align="center">📋 Languages & Markup</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,java,js,ts,php,ruby,perl,lua,markdown&perline=13" alt="Programming Languages & Markup"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,java,js,ts,php,ruby,perl,lua,markdown&perline=10" alt="Programming Languages & Markup"/>
   </a>
 </p>
 
