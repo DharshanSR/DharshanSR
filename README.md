@@ -218,105 +218,105 @@ I’m looking to connect with developers and innovators who share a passion for 
 
 ## 🎯 Skills Overview
 
-### 🎨 Frontend Technologies
+### <p align="center">🎨 Frontend Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui,threejs,webpack,vite,vue,angular,svelte,bootstrap&perline=9" alt="Frontend Technologies"/>
   </a>
 </p>
 
-### ⚙️ Backend Technologies
+### <p align="center">⚙️ Backend Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,postgres,redis,firebase,mongodb,mysql,nginx,graphql,apollo,django,flask&perline=9" alt="Backend Technologies"/>
   </a>
 </p>
 
-### 📱 Mobile Development
+### <p align="center">📱 Mobile Development</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,swift,unity,cs,xamarin,ionic&perline=10" alt="Mobile Development"/>
   </a>
 </p>
 
-### 🤖 Machine Learning & AI
+### <p align="center">🤖 Machine Learning & AI</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,r,sklearn,anaconda,numpy,pandas&perline=10" alt="Machine Learning & AI"/>
   </a>
 </p>
 
-### 🚀 DevOps & CI/CD
+### <p align="center">🚀 DevOps & CI/CD</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,jenkins,terraform,ansible,prometheus,grafana,githubactions,circleci,travis&perline=12" alt="DevOps & CI/CD"/>
   </a>
 </p>
 
-### ☁️ Cloud Platforms
+### <p align="center">☁️ Cloud Platforms</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,digitalocean,cloudflare,firebase,supabase&perline=10" alt="Cloud Platforms"/>
   </a>
 </p>
 
-### 🗄️ Databases
+### <p align="center">🗄️ Databases</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,dynamodb,cassandra,elasticsearch,planetscale,prisma&perline=10" alt="Databases"/>
   </a>
 </p>
 
-### 🛠️ Development Tools & IDEs
+### <p align="center">🛠️ Development Tools & IDEs</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim,neovim,emacs,sublime,atom,eclipse&perline=10" alt="Development Tools & IDEs"/>
   </a>
 </p>
 
-### 🧪 Testing & API Tools
+### <p align="center">🧪 Testing & API Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,insomnia,jest,cypress,selenium,vitest,playwright&perline=7" alt="Testing & API Tools"/>
   </a>
 </p>
 
-### 🎨 Design & Prototyping
+### <p align="center">🎨 Design & Prototyping</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,sketch,blender&perline=6" alt="Design & Prototyping"/>
   </a>
 </p>
 
-### 🖥️ Operating Systems & Terminal
+### <p align="center">🖥️ Operating Systems & Terminal</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,powershell,bash,zsh,vim,wsl,apple&perline=10" alt="Operating Systems & Terminal"/>
   </a>
 </p>
 
-### 🔧 Version Control & Collaboration
+### <p align="center">🔧 Version Control & Collaboration</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,discord,slack,notion,trello,jira,teams&perline=10" alt="Version Control & Collaboration"/>
   </a>
 </p>
 
-### 🌐 Web Technologies & Protocols
+### <p align="center">🌐 Web Technologies & Protocols</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=graphql,apollo,rest,websocket,socketio,nginx,apache&perline=7" alt="Web Technologies & Protocols"/>
   </a>
 </p>
 
-### 🔌 Additional Technologies & Frameworks
+### <p align="center">🔌 Additional Technologies & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=electron,tauri,wasm,pwa,storybook,vite,rollup,parcel,babel,eslint&perline=10" alt="Additional Technologies & Frameworks"/>
   </a>
 </p>
 
-### 📋 Languages & Markup
+### <p align="center">📋 Languages & Markup</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,java,js,ts,php,ruby,perl,lua,markdown&perline=13" alt="Programming Languages & Markup"/>
