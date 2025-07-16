@@ -4,13 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Machine+Learning+Explorer;Problem+Solver+%26+Tech+Innovator" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DharshanSR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DharshanSR?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
 ## 🚀 About Me
-I’m Dharshan, a **Software Engineering Undergraduate** at the University of Westminster with a passion for solving complex challenges through technology. I’m always excited to explore new possibilities in **Software Development, AI, Cloud Computing**, and **DevOps**.
+I'm Dharshan, a **Software Engineering Undergraduate** at the University of Westminster with a passion for solving complex challenges through technology. I'm always excited to explore new possibilities in **Software Development, AI, Cloud Computing**, and **DevOps**.
 
 - 🛠️ **Tech Enthusiast**: Dedicated to exploring the latest in **Web Development, Mobile Apps, and Machine Learning**.  
 - 🌱 **Lifelong Learner**: Constantly expanding my skills in **Cloud Computing** and **DevOps** to stay at the forefront of industry trends.  
@@ -26,18 +21,6 @@ I’m Dharshan, a **Software Engineering Undergraduate** at the University of We
 - 🧰 **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform  
 - 📊 **Data Structures & Algorithms**: Sharpening my problem-solving skills with real-world applications.
 
-## 🤝 Let's Collaborate!
-I’m looking to connect with developers and innovators who share a passion for building cutting-edge solutions. If you’re working on something exciting, let’s collaborate!  
-- Web & Mobile App Development  
-- Machine Learning & AI  
-- DevOps, Cloud Infrastructure & Automation
-
-## 💬 Ask Me About
-- **DevOps & CI/CD Pipelines**  
-- **Scalable Web Architectures**  
-- **Machine Learning Algorithms**  
-- **Tech Career Development and Resources**
-
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -52,96 +35,112 @@ I’m looking to connect with developers and innovators who share a passion for 
   </a>
 </p>
 
-## 💻 Tech Stack
+## 🎯 Skills Overview
 
-### Frontend Technologies
+### <p align="center">📋 Programming Languages</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI"/>
-  <img src="https://img.shields.io/badge/Chakra--UI-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="WebPack"/>
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,js,ts,php&perline=12" alt="Programming Languages"/>
+  </a>
 </p>
 
-### Backend Technologies
+### <p align="center">🎨 Frontend Technologies</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui,threejs,webpack,vite,vue,angular,svelte,bootstrap&perline=12" alt="Frontend Technologies"/>
+  </a>
 </p>
 
-### Mobile App Development
+### <p align="center">⚙️ Backend Technologies</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Android_Studio-%233AA1F2.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,postgres,redis,firebase,mongodb,mysql,nginx,graphql,apollo,django,flask,nestjs,deno&perline=12" alt="Backend Technologies"/>
+  </a>
 </p>
 
-### Machine Learning & AI
+### <p align="center">🗄️ Databases</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23FF9633.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=12" alt="Databases"/>
+  </a>
 </p>
 
-### DevOps & CI/CD
+### <p align="center">📱 Mobile Development</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-%231F6A7B.svg?style=for-the-badge&logo=gitlabci&logoColor=white" alt="GitLab CI"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,swift,unity,cs&perline=12" alt="Mobile Development"/>
+  </a>
 </p>
 
-### Tools & Platforms
+### <p align="center">🤖 Machine Learning & AI</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Docker_Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
-  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/Jira-%230A74DA.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/WebStorm-%23312D3A.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/PhpStorm-%231B8C55.svg?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,r,anaconda&perline=12" alt="Machine Learning & AI"/>
+  </a>
 </p>
 
----
+### <p align="center">☁️ Cloud Platforms</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,cloudflare,firebase,supabase&perline=12" alt="Cloud Platforms"/>
+  </a>
+</p>
+
+### <p align="center">🚀 DevOps & CI/CD</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,terraform,githubactions&perline=12" alt="DevOps & CI/CD"/>
+  </a>
+</p>
+
+### <p align="center">🛠️ Development Tools & IDEs</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim,sublime,eclipse,replit&perline=12" alt="Development Tools & IDEs"/>
+  </a>
+</p>
+
+### <p align="center">🧪 Testing & API Tools</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,jest&perline=12" alt="Testing & API Tools"/>
+  </a>
+</p>
+
+### <p align="center">🔧 Version Control & Collaboration</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,discord,notion&perline=12" alt="Version Control & Collaboration"/>
+  </a>
+</p>
+
+### <p align="center">🖥️ Operating Systems & Terminal</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,powershell,bash,vim&perline=12" alt="Operating Systems & Terminal"/>
+  </a>
+</p>
+
+### <p align="center">🎨 Design & Prototyping</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,blender&perline=12" alt="Design & Prototyping"/>
+  </a>
+</p>
+
+### <p align="center">🌐 Web Technologies & Protocols</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx&perline=12" alt="Web Technologies & Protocols"/>
+  </a>
+</p>
+
+### <p align="center">🔌 Additional Tools & Frameworks</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,babel&perline=12" alt="Additional Tools & Frameworks"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -216,120 +215,22 @@ I’m looking to connect with developers and innovators who share a passion for 
   <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 480px" />
 </p>
 
-## 🎯 Skills Overview
+## 🤝 Let's Collaborate!
+I'm looking to connect with developers and innovators who share a passion for building cutting-edge solutions. If you're working on something exciting, let's collaborate!  
+- Web & Mobile App Development  
+- Machine Learning & AI  
+- DevOps, Cloud Infrastructure & Automation
 
-### <p align="center">🎨 Frontend Technologies</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui,threejs,webpack,vite,vue,angular,svelte,bootstrap&perline=10" alt="Frontend Technologies"/>
-  </a>
-</p>
-
-### <p align="center">⚙️ Backend Technologies</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,postgres,redis,firebase,mongodb,mysql,nginx,graphql,apollo,django,flask&perline=10" alt="Backend Technologies"/>
-  </a>
-</p>
-
-### <p align="center">📱 Mobile Development</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,swift,unity,cs,xamarin,ionic&perline=10" alt="Mobile Development"/>
-  </a>
-</p>
-
-### <p align="center">🤖 Machine Learning & AI</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,r,sklearn,anaconda,numpy,pandas&perline=10" alt="Machine Learning & AI"/>
-  </a>
-</p>
-
-### <p align="center">🚀 DevOps & CI/CD</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,jenkins,terraform,ansible,prometheus,grafana,githubactions,circleci,travis&perline=10" alt="DevOps & CI/CD"/>
-  </a>
-</p>
-
-### <p align="center">☁️ Cloud Platforms</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,digitalocean,cloudflare,firebase,supabase&perline=10" alt="Cloud Platforms"/>
-  </a>
-</p>
-
-### <p align="center">🗄️ Databases</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,dynamodb,cassandra,elasticsearch,planetscale,prisma&perline=10" alt="Databases"/>
-  </a>
-</p>
-
-### <p align="center">🛠️ Development Tools & IDEs</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim,neovim,emacs,sublime,atom,eclipse&perline=10" alt="Development Tools & IDEs"/>
-  </a>
-</p>
-
-### <p align="center">🧪 Testing & API Tools</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,insomnia,jest,cypress,selenium,vitest,playwright&perline=10" alt="Testing & API Tools"/>
-  </a>
-</p>
-
-### <p align="center">🎨 Design & Prototyping</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,sketch,blender&perline=10" alt="Design & Prototyping"/>
-  </a>
-</p>
-
-### <p align="center">🖥️ Operating Systems & Terminal</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,powershell,bash,zsh,vim,wsl,apple&perline=10" alt="Operating Systems & Terminal"/>
-  </a>
-</p>
-
-### <p align="center">🔧 Version Control & Collaboration</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,discord,slack,notion,trello,jira,teams&perline=10" alt="Version Control & Collaboration"/>
-  </a>
-</p>
-
-### <p align="center">🌐 Web Technologies & Protocols</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,apollo,rest,websocket,socketio,nginx,apache&perline=10" alt="Web Technologies & Protocols"/>
-  </a>
-</p>
-
-### <p align="center">🔌 Additional Technologies & Frameworks</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,tauri,wasm,pwa,storybook,vite,rollup,parcel,babel,eslint&perline=10" alt="Additional Technologies & Frameworks"/>
-  </a>
-</p>
-
-### <p align="center">📋 Languages & Markup</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,java,js,ts,php,ruby,perl,lua,markdown&perline=10" alt="Programming Languages & Markup"/>
-  </a>
-</p>
+## 💬 Ask Me About
+- **DevOps & CI/CD Pipelines**  
+- **Scalable Web Architectures**  
+- **Machine Learning Algorithms**  
+- **Tech Career Development and Resources**
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DharshanSR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DharshanSR&label=Visitors&icon=0&pretty=false" alt="Visitors" />
-  </a>
 </p>
 
 <p align="center">
