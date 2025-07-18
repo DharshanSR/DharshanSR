@@ -24,11 +24,8 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharshan-4a2348278/">
+  <a href="[https://www.linkedin.com/in/dharshan-4a2348278/](https://www.linkedin.com/in/ravindran-dharshan/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/23990363">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
   <a href="https://medium.com/@dharshanravindran8">
     <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
@@ -37,38 +34,31 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
 
 ## 🎯 Skills Overview
 
-### <p align="center">📋 Programming Languages</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,js,ts,php&perline=12" alt="Programming Languages"/>
-  </a>
-</p>
-
 ### <p align="center">🎨 Frontend Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui,threejs,webpack,vite,vue,angular,svelte,bootstrap&perline=12" alt="Frontend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui&perline=12" alt="Frontend Technologies"/>
   </a>
 </p>
 
 ### <p align="center">⚙️ Backend Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,postgres,redis,firebase,mongodb,mysql,nginx,graphql,apollo,django,flask,nestjs,deno&perline=12" alt="Backend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,nginx&perline=12" alt="Backend Technologies"/>
   </a>
 </p>
 
 ### <p align="center">🗄️ Databases</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=12" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,appwrite,supabase&perline=12" alt="Databases"/>
   </a>
 </p>
 
 ### <p align="center">📱 Mobile Development</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,swift,unity,cs&perline=12" alt="Mobile Development"/>
+    <img src="https://skillicons.dev/icons?i=react,androidstudio,kotlin&perline=12" alt="Mobile Development"/>
   </a>
 </p>
 
@@ -82,7 +72,7 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
 ### <p align="center">☁️ Cloud Platforms</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,cloudflare,firebase,supabase&perline=12" alt="Cloud Platforms"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare,firebase&perline=12" alt="Cloud Platforms"/>
   </a>
 </p>
 
@@ -96,7 +86,7 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
 ### <p align="center">🛠️ Development Tools & IDEs</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim,sublime,eclipse,replit&perline=12" alt="Development Tools & IDEs"/>
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim&perline=12" alt="Development Tools & IDEs"/>
   </a>
 </p>
 
@@ -110,35 +100,21 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
 ### <p align="center">🔧 Version Control & Collaboration</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,discord,notion&perline=12" alt="Version Control & Collaboration"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion&perline=12" alt="Version Control & Collaboration"/>
   </a>
 </p>
 
 ### <p align="center">🖥️ Operating Systems & Terminal</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,powershell,bash,vim&perline=12" alt="Operating Systems & Terminal"/>
-  </a>
-</p>
-
-### <p align="center">🎨 Design & Prototyping</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,blender&perline=12" alt="Design & Prototyping"/>
-  </a>
-</p>
-
-### <p align="center">🌐 Web Technologies & Protocols</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx&perline=12" alt="Web Technologies & Protocols"/>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,bash,vim&perline=12" alt="Operating Systems & Terminal"/>
   </a>
 </p>
 
 ### <p align="center">🔌 Additional Tools & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,babel&perline=12" alt="Additional Tools & Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=vite,babel,vercel&perline=12" alt="Additional Tools & Frameworks"/>
   </a>
 </p>
 
