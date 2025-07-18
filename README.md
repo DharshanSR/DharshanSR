@@ -21,102 +21,55 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
 - 🧰 **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform  
 - 📊 **Data Structures & Algorithms**: Sharpening my problem-solving skills with real-world applications.
 
-## 🌐 Connect with Me
+## 🌐 Professional Network & Contact
 
+<div align="center">
 <p align="center">
-  <a href="[https://www.linkedin.com/in/dharshan-4a2348278/](https://www.linkedin.com/in/ravindran-dharshan/)">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ravindran-dharshan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <a href="https://medium.com/@dharshanravindran8">
-    <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="https://medium.com/@dharshanravindran8" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
+  </a>
+  <a href="mailto:dharshanravindran8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
   </a>
 </p>
 
-## 🎯 Skills Overview
-
-### <p align="center">🎨 Frontend Technologies</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui&perline=12" alt="Frontend Technologies"/>
-  </a>
+  <em>🚀 Open to exciting opportunities and meaningful collaborations</em><br/>
+  <em>💡 Always eager to discuss innovative projects and technical challenges</em>
 </p>
 
-### <p align="center">⚙️ Backend Technologies</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,nginx&perline=12" alt="Backend Technologies"/>
-  </a>
+  <strong>📧 Professional Inquiries:</strong> dharshanravindran8@gmail.com<br/>
+  <strong>📝 Technical Writing:</strong> <a href="https://medium.com/@dharshanravindran8">Medium Blog</a><br/>
+  <strong>🔗 Professional Network:</strong> <a href="https://www.linkedin.com/in/ravindran-dharshan/">LinkedIn Profile</a>
 </p>
 
-### <p align="center">🗄️ Databases</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,appwrite,supabase&perline=12" alt="Databases"/>
-  </a>
-</p>
+</div>
 
-### <p align="center">📱 Mobile Development</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,androidstudio,kotlin&perline=12" alt="Mobile Development"/>
-  </a>
-</p>
 
-### <p align="center">🤖 Machine Learning & AI</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,r,anaconda&perline=12" alt="Machine Learning & AI"/>
-  </a>
-</p>
+## <p>� Professional Technology Stack</p>
 
-### <p align="center">☁️ Cloud Platforms</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare,firebase&perline=12" alt="Cloud Platforms"/>
-  </a>
-</p>
+<div align="center">
 
-### <p align="center">🚀 DevOps & CI/CD</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,terraform,githubactions&perline=12" alt="DevOps & CI/CD"/>
-  </a>
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **🎨 Frontend Development** | [![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui&perline=10)](https://skillicons.dev) |
+| **⚙️ Backend Engineering** | [![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,nginx&perline=10)](https://skillicons.dev) |
+| **🗄️ Database Management** | [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,appwrite,supabase&perline=10)](https://skillicons.dev) |
+| **📱 Mobile Development** | [![Mobile Development](https://skillicons.dev/icons?i=react,androidstudio,kotlin&perline=10)](https://skillicons.dev) |
+| **🤖 Machine Learning & AI** | [![Machine Learning & AI](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,r,anaconda&perline=10)](https://skillicons.dev) |
+| **☁️ Cloud Infrastructure** | [![Cloud Platforms](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare,firebase&perline=10)](https://skillicons.dev) |
+| **🚀 DevOps & CI/CD** | [![DevOps & CI/CD](https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,terraform,githubactions&perline=10)](https://skillicons.dev) |
+| **🛠️ Development Environment** | [![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim&perline=10)](https://skillicons.dev) |
+| **🧪 Testing & Quality Assurance** | [![Testing & API Tools](https://skillicons.dev/icons?i=postman,jest&perline=10)](https://skillicons.dev) |
+| **🔧 Version Control & Collaboration** | [![Version Control & Collaboration](https://skillicons.dev/icons?i=git,github,gitlab,notion&perline=10)](https://skillicons.dev) |
+| **🖥️ System Administration** | [![Operating Systems & Terminal](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,bash,vim&perline=10)](https://skillicons.dev) |
+| **🔌 Build Tools & Frameworks** | [![Additional Tools & Frameworks](https://skillicons.dev/icons?i=vite,babel,vercel&perline=10)](https://skillicons.dev) |
 
-### <p align="center">🛠️ Development Tools & IDEs</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim&perline=12" alt="Development Tools & IDEs"/>
-  </a>
-</p>
-
-### <p align="center">🧪 Testing & API Tools</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,jest&perline=12" alt="Testing & API Tools"/>
-  </a>
-</p>
-
-### <p align="center">🔧 Version Control & Collaboration</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion&perline=12" alt="Version Control & Collaboration"/>
-  </a>
-</p>
-
-### <p align="center">🖥️ Operating Systems & Terminal</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,bash,vim&perline=12" alt="Operating Systems & Terminal"/>
-  </a>
-</p>
-
-### <p align="center">🔌 Additional Tools & Frameworks</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,babel,vercel&perline=12" alt="Additional Tools & Frameworks"/>
-  </a>
-</p>
+</div>
 
 ## 📊 GitHub Stats
 
