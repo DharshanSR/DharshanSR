@@ -159,9 +159,15 @@ I'm looking to connect with developers and innovators who share a passion for bu
 ---
 
 <p align="center">
+ <img src="https://leetcard.jacoblin.cool/Dharshan?ext=contest" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DharshanSR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <em>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</em>
 </p>
+
+
