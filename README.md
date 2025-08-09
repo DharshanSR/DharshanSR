@@ -56,7 +56,7 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
 
 | Category | Technologies |
 |----------|-------------|
-| **🎨 Frontend Development** | [![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,materialui&perline=10)](https://skillicons.dev) |
+| **🎨 Frontend Development** | [![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&perline=10)](https://skillicons.dev) |
 | **⚙️ Backend Engineering** | [![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,nginx&perline=10)](https://skillicons.dev) |
 | **🗄️ Database Management** | [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,appwrite,supabase&perline=10)](https://skillicons.dev) |
 | **📱 Mobile Development** | [![Mobile Development](https://skillicons.dev/icons?i=react,androidstudio,kotlin&perline=10)](https://skillicons.dev) |
