@@ -5,21 +5,14 @@
 </p>
 
 ## 🚀 About Me
-I'm Dharshan, a **Software Engineering Undergraduate** at the University of Westminster with a passion for solving complex challenges through technology. I'm always excited to explore new possibilities in **Software Development, AI, Cloud Computing**, and **DevOps**.
 
-- 🛠️ **Tech Enthusiast**: Dedicated to exploring the latest in **Web Development, Mobile Apps, and Machine Learning**.  
-- 🌱 **Lifelong Learner**: Constantly expanding my skills in **Cloud Computing** and **DevOps** to stay at the forefront of industry trends.  
-- 🎯 **Problem Solver**: Focused on designing efficient, scalable solutions that have real-world applications.
+I'm **Dharshan**, a **Software Engineering Undergraduate** at the University of Westminster with a passion for solving complex challenges through technology. I’m always excited to explore new possibilities in **Software Development**, **AI**, **Cloud Computing**, and **DevOps**.
 
-## 💡 What I'm Passionate About
-- 💻 Building modern **Web Applications** and **Mobile Solutions**.  
-- 🔄 Enhancing the **DevOps** lifecycle for better deployment and operations.  
-- 🤖 Exploring the world of **Machine Learning** and **Artificial Intelligence**.
+## 🏆 Creator & Maintainer: GitGenius
 
-## 🔍 Currently Learning
-- 🚀 **Cloud Platforms**: AWS, Azure, GCP  
-- 🧰 **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform  
-- 📊 **Data Structures & Algorithms**: Sharpening my problem-solving skills with real-world applications.
+I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/package/@dharshansr/gitgenius) — an AI-powered CLI tool that helps developers write **perfect, context-aware Git commit messages** in seconds.
+
+[![npm version](https://img.shields.io/npm/v/@dharshansr/gitgenius)](https://www.npmjs.com/package/@dharshansr/gitgenius)
 
 ## 🌐 Professional Network & Contact
 
@@ -35,18 +28,6 @@ I'm Dharshan, a **Software Engineering Undergraduate** at the University of West
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
   </a>
 </p>
-
-<p align="center">
-  <em>🚀 Open to exciting opportunities and meaningful collaborations</em><br/>
-  <em>💡 Always eager to discuss innovative projects and technical challenges</em>
-</p>
-
-<p align="center">
-  <strong>📧 Professional Inquiries:</strong> dharshanravindran8@gmail.com<br/>
-  <strong>📝 Technical Writing:</strong> <a href="https://medium.com/@dharshanravindran8">Medium Blog</a><br/>
-  <strong>🔗 Professional Network:</strong> <a href="https://www.linkedin.com/in/ravindran-dharshan/">LinkedIn Profile</a>
-</p>
-
 </div>
 
 
