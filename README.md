@@ -137,12 +137,6 @@ I'm looking to connect with developers and innovators who share a passion for bu
 - **Machine Learning Algorithms**  
 - **Tech Career Development and Resources**
 
----
-
-<p align="center">
- <img src="https://leetcard.jacoblin.cool/Dharshan?ext=contest" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DharshanSR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
