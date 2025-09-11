@@ -24,9 +24,6 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
   <a href="https://medium.com/@dharshanravindran8" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
   </a>
-  <a href="mailto:dharshanravindran8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
-  </a>
 </p>
 </div>
 
