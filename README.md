@@ -27,8 +27,6 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
 </p>
 </div>
 
-[![An image of @dharshan08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dharshan08)](https://holopin.io/@dharshan08)
-
 ## <p>� Professional Technology Stack</p>
 
 <div align="center">
