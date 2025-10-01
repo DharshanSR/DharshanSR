@@ -40,7 +40,7 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
 | **🤖 Machine Learning & AI** | [![Machine Learning & AI](https://skillicons.dev/icons?i=r&perline=10)](https://skillicons.dev) |
 | **☁️ Cloud Infrastructure** | [![Cloud Platforms](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare,firebase&perline=10)](https://skillicons.dev) |
 | **🚀 DevOps & CI/CD** | [![DevOps & CI/CD](https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,terraform,githubaction&perline=10)](https://skillicons.dev) |
-| **🛠️ Development Environment** | [![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm,vim&perline=10)](https://skillicons.dev) |
+| **🛠️ Development Environment** | [![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,webstorm,idea,phpstorm&perline=10)](https://skillicons.dev) |
 | **🧪 Testing & Quality Assurance** | [![Testing & API Tools](https://skillicons.dev/icons?i=postman,jest&perline=10)](https://skillicons.dev) |
 | **🔧 Version Control & Collaboration** | [![Version Control & Collaboration](https://skillicons.dev/icons?i=git,github,gitlab,notion&perline=10)](https://skillicons.dev) |
 | **🖥️ System Administration** | [![Operating Systems & Terminal](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,bash,vim&perline=10)](https://skillicons.dev) |
