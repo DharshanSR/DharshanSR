@@ -75,47 +75,6 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
   </a>
 </p>
 
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=150146619" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=150146619&image_size=auto&color_scheme=dark" 
-              width="100%">
-      <img 
-        alt="OSSInsight GitHub Stats for @DharshanSR" 
-        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=150146619&image_size=auto&color_scheme=light" 
-        width="100%"
-        style="border-radius: 12px; max-width: 600px;"
-      />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=150146619" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=150146619&image_size=auto&color_scheme=dark">
-      <img 
-        alt="@DharshanSR's Recent Work - Last 28 Days" 
-        src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=150146619&image_size=auto&color_scheme=light" 
-        style="border-radius: 12px; width: 48%; max-width: 450px; height: auto;"
-      />
-    </picture>
-  </a>
-  <a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=732431933" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=732431933&image_size=auto&color_scheme=dark">
-      <img 
-        alt="Pushes and Commits for DharshanSR/DharshanSR" 
-        src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=732431933&image_size=auto&color_scheme=light" 
-        style="border-radius: 12px; width: 48%; max-width: 450px; height: auto;"
-      />
-    </picture>
-  </a>
-</p>
-
 ## 🔝 Top Contributed Repo
 
 <p align="center">
