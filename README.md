@@ -36,7 +36,6 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
 | **🎨 Frontend Development** | [![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&perline=10)](https://skillicons.dev) |
 | **⚙️ Backend Engineering** | [![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,java,spring,python,nginx&perline=10)](https://skillicons.dev) |
 | **🗄️ Database Management** | [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,appwrite,supabase&perline=10)](https://skillicons.dev) |
-| **🤖 Machine Learning & AI** | [![Machine Learning & AI](https://skillicons.dev/icons?i=r&perline=10)](https://skillicons.dev) |
 | **☁️ Cloud Infrastructure** | [![Cloud Platforms](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare,firebase&perline=10)](https://skillicons.dev) |
 | **🚀 DevOps & CI/CD** | [![DevOps & CI/CD](https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,terraform,githubaction&perline=10)](https://skillicons.dev) |
 | **🔧 Version Control & Collaboration** | [![Version Control & Collaboration](https://skillicons.dev/icons?i=git,github,gitlab,notion&perline=10)](https://skillicons.dev) |
