@@ -14,19 +14,6 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
 
 [![npm version](https://img.shields.io/npm/v/@dharshansr/gitgenius)](https://www.npmjs.com/package/@dharshansr/gitgenius)
 
-## 🌐 Professional Network & Contact
-
-<div align="center">
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravindran-dharshan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="https://medium.com/@dharshanravindran8" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
-  </a>
-</p>
-</div>
-
 ## <p>� Professional Technology Stack</p>
 
 <div align="center">
