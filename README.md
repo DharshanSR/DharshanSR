@@ -1,7 +1,7 @@
 <h1>👋 Hello, I'm Dharshan! 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Machine+Learning+Explorer;Problem+Solver+%26+Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Site+Reliability+Engineer+(SRE);DevOps+%26+Platform+Engineering+Enthusiast;Cloud-Native+%26+Automation+Focused;Problem+Solver+%26+Systems+Builder" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
