@@ -49,31 +49,11 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
   <img src="https://github-profile-trophy.vercel.app/?username=DharshanSR&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=8&align=center" alt="GitHub Trophies"/>
 </p>
 
-## 📈 Activity & Insights
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharshanSR&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
 ## 🔝 Top Contributed Repo
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DharshanSR&limit=5&theme=vue-dark&hide&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 480px" />
 </p>
-
-## 🤝 Let's Collaborate!
-I'm looking to connect with developers and innovators who share a passion for building cutting-edge solutions. If you're working on something exciting, let's collaborate!  
-- Web & Mobile App Development  
-- Machine Learning & AI  
-- DevOps, Cloud Infrastructure & Automation
-
-## 💬 Ask Me About
-- **DevOps & CI/CD Pipelines**  
-- **Scalable Web Architectures**  
-- **Machine Learning Algorithms**  
-- **Tech Career Development and Resources**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DharshanSR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
