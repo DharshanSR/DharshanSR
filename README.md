@@ -58,9 +58,3 @@ I’m the **founder & lead developer** of [GitGenius](https://www.npmjs.com/pack
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DharshanSR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p align="center">
-  <em>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</em>
-</p>
-
-
